@@ -1,23 +1,23 @@
 # List of all Board Members, past and present
 
 ## 2016–2017 Board Members
-* President: Yatharth Agarwal, Tony Zhaocheng Tan
-* Assistant President: Philip Lamkin
-* Server Administrator: Alex Reichenbach
-* Webmaster: Jeffrey Shen
-* CTF Master: Miles McCain (appointed)
+* President: Yatharth Agarwal '17, Tony Zhaocheng Tan '17
+* Assistant President: Philip Lamkin '17
+* Server Administrator: Alex Reichenbach '18
+* Webmaster: Jeffrey Shen '19
+* CTF Master: Miles McCain '19 (appointed)
 
 ## 2015–2016 Board Members
-* President: Cameron Wong, Karen Xia
-* Assistant President: Philip Lamkin
-* Server Administrator: Yatharth Agarwal
-* Webmaster: Eric Lee
-* Administrative Assistant: Tony Zhaocheng Tan (appointed)
+* President: Cameron Wong '16, Karen Xia '16
+* Assistant President: Philip Lamkin '17
+* Server Administrator: Yatharth Agarwal '17
+* Webmaster: Eric Lee '16
+* Administrative Assistant: Tony Zhaocheng Tan '17 (appointed)
 
 ## 2014–2015 Board Members
-* President: Clifford Ressel, Jake Herman
-* Assistant President: Ravn Jenkins
-* Server Administrator: Thayer Anderson
+* President: Clifford Ressel '15, Jake Herman '15
+* Assistant President: Ravn Jenkins '15
+* Server Administrator: Thayer Anderson '15
 * Webmaster: ?
 
 ## 2013–2014 Board Members
