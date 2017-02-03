@@ -21,19 +21,19 @@
 * Webmaster: ?
 
 ## 2013–2014 Board Members
-* President: ?
-* Assistant President: ?
-* Server Administrator: ?
+* President: Tadaes Nemec '14
+* Assistant President: Ravn Jenkins '15
+* Server Administrator: Thayer Anderson '15 ?
 * Webmaster: ?
 
 ## 2012–2013 Board Members
-* President: ?
+* President: Patrick Niedzielski
 * Assistant President: ?
 * Server Administrator: ?
 * Webmaster: ?
 
 ## 2011–2012 Board Members
-* President: ?
+* President: Patrick Niedzielski
 * Assistant President: ?
 * Server Administrator: ?
 * Webmaster: ?
