@@ -70,8 +70,8 @@
 * Webmaster: ?
 
 ## 2005–2006 Board Members
-* President: ?
-* Assistant President: ?
+* President: Parag Khandelwal '06
+* Assistant President: Erika Chow '06
 * Server Administrator: ?
 * Webmaster: ?
 
@@ -112,6 +112,18 @@
 * Webmaster: ?
 
 ## 1998–1999 Board Members
+* President: ?
+* Assistant President: ?
+* Server Administrator: ?
+* Webmaster: ?
+
+## 1997–1998 Board Members
+* President: ?
+* Assistant President: ?
+* Server Administrator: ?
+* Webmaster: ?
+
+## 1996–1997 Board Members
 * President: ?
 * Assistant President: ?
 * Server Administrator: ?
