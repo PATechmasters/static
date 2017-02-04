@@ -18,7 +18,7 @@
 * President: Clifford Ressel '15, Jake Herman '15
 * Assistant President: Ravn Jenkins '15
 * Server Administrator: Thayer Anderson '15
-* Webmaster: ?
+* Webmaster: Eric Lee '16 ?
 
 ## 2013–2014 Board Members
 * President: Tadaes Nemec '14
@@ -27,10 +27,10 @@
 * Webmaster: ?
 
 ## 2012–2013 Board Members
-* President: Patrick Niedzielski
-* Assistant President: ?
-* Server Administrator: ?
-* Webmaster: ?
+* President: Patrick Niedzielski '13
+* Assistant President: Tadaes Nemec '14
+* Server Administrator: Aidan Beckley
+* Webmaster: Claire Wolford
 
 ## 2011–2012 Board Members
 * President: Patrick Niedzielski
