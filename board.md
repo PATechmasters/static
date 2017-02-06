@@ -36,7 +36,7 @@
 * President: Patrick Niedzielski '13
 * Assistant President: Christoph von Braun '12
 * Server Administrator: Bernhard Fasenfest '12
-* Webmaster: Aidan Beckley '13 and Paul Johnson '12?
+* Webmaster: Aidan Beckley '13 and Paul Johnson
 
 ## 2010–2011 Board Members
 * President: Kevin Song '11
