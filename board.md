@@ -22,39 +22,39 @@
 
 ## 2013–2014 Board Members
 * President: Tadaes Nemec '14
-* Assistant President: Ravn Jenkins '15
-* Server Administrator: Thayer Anderson '15 ?
-* Webmaster: ?
+* Assistant President: Cliff Ressel '15
+* Server Administrator: Thayer Anderson '15 and Jake Herman '15
+* Webmaster: Claire Wolford '15
 
 ## 2012–2013 Board Members
 * President: Patrick Niedzielski '13
 * Assistant President: Tadaes Nemec '14
-* Server Administrator: Aidan Beckley
-* Webmaster: Claire Wolford
+* Server Administrator: Aidan Beckley '13
+* Webmaster: Claire Wolford '15
 
 ## 2011–2012 Board Members
-* President: Patrick Niedzielski
-* Assistant President: ?
-* Server Administrator: ?
-* Webmaster: ?
+* President: Patrick Niedzielski '13
+* Assistant President: Christoph von Braun '12
+* Server Administrator: Bernhard Fasenfest '12
+* Webmaster: Aidan Beckley '13 and Paul Johnson '12?
 
 ## 2010–2011 Board Members
-* President: Kevin Song
-* Assistant President: Amanda Wang
-* Server Administrator: Patrick Niedzielski
-* Webmaster: Bernhard Fasenfest
+* President: Kevin Song '11
+* Assistant President: Amanda Wang '11
+* Server Administrator: Patrick Niedzielski '13
+* Webmaster: Bernhard Fasenfest '12
 
 ## 2009–2010 Board Members
-* President: Henry Morgan
-* Assistant President: Elizabeth Chen
-* Server Administrator: Kevin Song
-* Webmaster: Katherine Rivera
+* President: Henry Morgan '10
+* Assistant President: Elizabeth Chen '10
+* Server Administrator: Kevin Song '11
+* Webmaster: Katherine Rivera '11
 
 ## 2008–2009 Board Members
-* President: Christian Anderson
+* President: Christian Anderson '09
 * Assistant President: Gloria Odusote
-* Server Administrator: Henry Morgan
-* Webmaster: Carl F. Jackson
+* Server Administrator: Henry Morgan '10
+* Webmaster: Carl F. Jackson '09
 
 ## 2007–2008 Board Members
 * President: William Koven
